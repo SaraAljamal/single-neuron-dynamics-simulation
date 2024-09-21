@@ -50,5 +50,6 @@ _**How to Use**_
 2.	Single Neuron Dynamics Simulation Report:
    
 •	The report (Single Neuron Dynamics Simulation Report.docx) discusses the theoretical principles, results, and insights from the simulations, including the application of different optimization techniques.
+
 •	You can view or download the report directly from the repository to understand the project background and conclusions.
 
