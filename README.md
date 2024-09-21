@@ -10,6 +10,7 @@ _**Dataset**_
 The empirical data for this project provides electrophysiological recordings of neurons, it includes measurements of neuronal output V(t) in response to various input values I(t).
 
 _**Project Workflow**_
+
 1- Data Loading and Exploration:
 
 •	Loaded and explored the dataset, while also selecting a portion of the dataset through masking.
@@ -39,6 +40,7 @@ _**Tech Stack**_
 
 _**How to Use**_
 1.	Single_Neuron_Simulation.ipynb Notebook:
+   
 •	The notebook contains all steps of the project
 •	To run each notebook, open the it in Google Colab:
 -	Click on the notebook file (Single_Neuron_Simulation.ipynb).
@@ -46,6 +48,7 @@ _**How to Use**_
 -	You can run the cells sequentially to see the steps and results.
 
 2.	Single Neuron Dynamics Simulation Report:
+   
 •	The report (Single Neuron Dynamics Simulation Report.docx) discusses the theoretical principles, results, and insights from the simulations, including the application of different optimization techniques.
 •	You can view or download the report directly from the repository to understand the project background and conclusions.
 
